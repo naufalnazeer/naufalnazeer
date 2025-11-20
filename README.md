@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🚀 Hybrid Mobile & Full-Stack Developer | 5 Years Experience
 
-<!--
-**naufalnazeer/naufalnazeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a highly motivated **Hybrid Mobile Developer** with 5 years of professional experience building end-to-end solutions, focusing on cross-platform performance and seamless user experience.
 
-Here are some ideas to get you started:
+My background includes successfully driving the development of specialized mobile applications in high-stakes sectors like **E-commerce** and **Car Rental**, and I thrive in collaborative team environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Core Technology Stack
+
+| Platform/Framework | Backend/Web | Legacy Hybrid |
+| :--- | :--- | :--- |
+| **React Native** (Primary) | **Node.js** | **Ionic / Angular** |
+| React.js | REST API Development | Kony / VoltMX |
+| JavaScript / TypeScript | State Management (Redux) | Mobile UI/UX Principles |
