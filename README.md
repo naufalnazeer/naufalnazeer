@@ -157,8 +157,8 @@ I'm available for freelance and contract work in:
 - TypeScript migrations and React / React Native version upgrades
 - MVP development for startups, with AI-accelerated delivery timelines
 
-**Resume:** [Download Resume](./resume.pdf) &nbsp;|&nbsp; **Email:** your.email@example.com &nbsp;|&nbsp;
-**LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+**Resume:** [Download Resume](./resume.pdf) &nbsp;|&nbsp; **Email:** naufalnazeer059@gmail.com &nbsp;|&nbsp;
+**LinkedIn:** [linkedin.com/in/naufal-nazeer-8a6107142](https://linkedin.com)
 
 ---
 
