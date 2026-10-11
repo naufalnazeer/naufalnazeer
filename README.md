@@ -165,8 +165,8 @@ I'm available for freelance and contract work in:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naufalnazeer&show_icons=true&theme=default" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalnazeer&layout=compact&theme=default" alt="Top Languages" height="165" />
 </p>
 
 ---
@@ -175,5 +175,5 @@ I'm available for freelance and contract work in:
 
 <p>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:naufalnazeer059@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
